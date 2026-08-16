@@ -8,4 +8,4 @@ Set `ODIN_PATH` to your Odin location. Then run
 ```shell
 odin build .
 ```
-. Then add this directory to your path.
+Then add this directory to your path.
