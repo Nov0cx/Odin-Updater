@@ -7,5 +7,5 @@ Only works for Windows. Maybe doesn't fork for you, use carefully.
 Set `ODIN_PATH` to your Odin location. Then run 
 ```shell
 odin build .
-```.
- Then add this directory to your path.
+```
+. Then add this directory to your path.
